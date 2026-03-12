@@ -41,7 +41,7 @@
 ## Инструкция по запуску
 
 ```bash
-git clone https://github.com/username/mall-visualization.git
+git clone https://github.com/DimaKokovin/-JS-Three.js-WebGL.git
 cd mall-visualization
 npm install
 npm start
